@@ -1,6 +1,6 @@
 # Authentication API with NodeJS and Mongo DB
 
-Hello! This is a small project that demonstrates the how to build an Authentication API with NodeJS (ExpressJS) and MongoDB.
+Hello! This is a small project that demonstrates how to build an Authentication API with NodeJS (ExpressJS) and MongoDB.
 
 # Requirements
   - [Nodejs](https://nodejs.org) - 8.x or greater version
