@@ -16,7 +16,7 @@
     "git": "^0.1.5",
     "jsonwebtoken": "^8.5.1",
     "lodash": "^4.17.19",
-    "mongoose": "^5.5.13",
+    "mongoose": "^5.7.5",
     "mysql": "^2.17.1",
     "npm-git-install": "^0.3.0"
   },
